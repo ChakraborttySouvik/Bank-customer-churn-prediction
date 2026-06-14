@@ -138,7 +138,7 @@ The interactive dashboard provides:
 
 ### Dashboard Screenshot
 
-<img width="1325" height="739" alt="Dashboard" src="https://github.com/user-attachments/assets/e8b41a78-8343-4cc8-a823-1b2d8be2c4fa" />
+<img width="1313" height="740" alt="image" src="https://github.com/user-attachments/assets/0493f352-caa0-438c-93ec-3bad005b47cc" />
 
 ---
 
